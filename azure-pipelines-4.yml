@@ -14,7 +14,14 @@ steps:
   displayName: 'Use .NET SDK $(dotnetSdkVersion)'
   inputs:
     version: '$(dotnetSdkVersion)'
+    
+- script: |
+    npm install
+  displayName: 'npm install'
 
+- script: |
+    npm run build
+  displayName: 'npm build'
 - task: Npm@1
   displayName: 'Run npm install'
   inputs:
