@@ -20,7 +20,7 @@ steps:
   displayName: 'npm install'
 
 - script: |
-    gulp install
+    npm i gulp
   displayName: 'gulp install'
 
 - task: UseDotNet@2
