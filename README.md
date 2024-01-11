@@ -1,4 +1,4 @@
-![image](https://github.com/barthwalsamarth/mslearn-tailspin-spacegame-web/assets/9243770/8aa99b71-05fd-4a1c-a1c8-f8cae806a677)
+[![Build Status](https://dev.azure.com/samarthbarthwal/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status%2Fbarthwalsamarth.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/samarthbarthwal/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=10&branchName=main)
 
 
 # Contributing
